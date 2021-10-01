@@ -1,2 +1,1 @@
 # ML-Algorithm
-Random Forest
